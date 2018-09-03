@@ -1,0 +1,16 @@
+{
+  "name": "Notepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "AY Labkovsky",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.12"
+  }
+}
